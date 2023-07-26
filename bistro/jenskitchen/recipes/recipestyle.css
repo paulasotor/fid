@@ -1,0 +1,27 @@
+body {
+	Background-color: #f6f1e9;
+    margin: 0 10%;
+    font-family: sans-serif;
+}
+header{
+  text-align: center;
+  background-color: rgba(255,255,255,.3);
+  border-bottom: 2px solid #57b1dc;
+  
+}
+h1 {
+	font: bolder 3em serif; 
+    text-transform: uppercase;
+    color: #c60;
+   margin-top: 30px;
+}
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1em;
+	color: #57b1dc;
+}
+img.center { 
+display: block; 
+margin-left: auto; 
+margin-right: auto;
+}
