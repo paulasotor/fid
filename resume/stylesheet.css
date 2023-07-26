@@ -41,8 +41,9 @@
 	margin-left: .5em;
 	margin-right: .5em;
 }
+a{ color: #f887f3;}
 a:focus, a:hover {
-	color: #000000;
+	color: #9d8189;
     filter: drop-shadow(4px 4px 3px #9d8189);
 }
 ul{ list-style-type: circle;}
