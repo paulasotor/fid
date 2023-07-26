@@ -1,0 +1,13 @@
+body {
+    Background-color:  rgb(254, 246, 252);
+    margin: 0 12%;
+    font-family: sans-serif;
+    margin-top: 30px;
+}
+h1 {
+color:#9d8189;
+font-family: xenois slab;
+text-align:center;
+font-size: 60px;
+border-bottom: 3px solid #d6ccc2;
+}
